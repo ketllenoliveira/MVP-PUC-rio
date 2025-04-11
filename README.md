@@ -1,4 +1,4 @@
 # MVP-PUC-rio
 MVP Pós Graduação UX e IHM PUC rio - Avaliação Heurística e Teste de Usabilidade
 
-O Arquivo do MVP ficou muito extenso recomendo baixar e abrir no navegador. <P>
+Estava fazendo o arquivo do MVP no figma porém ficou muito extenso e tive que dividir em 4 partes. <P>
